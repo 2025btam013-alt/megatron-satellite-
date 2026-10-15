@@ -37,20 +37,17 @@ A modern satellite tracking platform decouples data processing from rendering to
 ─────────────────────────────────┐
 │     Frontend (Vite + React)     │ <--- Renders UI & Maps (Leaflet/Mapbox)
 └─────────────────────────────────┘
-
                 ▲
                 │ (JSON / GeoTIFF Render)
                 ▼
 ┌─────────────────────────────────┐
 │     Backend (Node.js/Python)    │ <--- Proxy Server, Cache, & Sentinel Hub Client
 └─────────────────────────────────┘
-
                 ▲
                 │ (OAuth Bearer Token)
                 ▼
 ┌─────────────────────────────────┐
 │ Copernicus / Sentinel Hub APIs  │ <--- Cloud-scaled Imagery Engine
-
 
 
 The Frontend (Vite + React/Vue + Tailwind CSS)
