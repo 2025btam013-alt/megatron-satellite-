@@ -189,4 +189,7 @@ This final page summarizes the entire report and is placed last as requested.
 •	Final conclusion: the site communicates a coherent disaster-analysis experience, but the public evidence reviewed is insufficient to certify it as an operational satellite monitoring or emergency-response platform.
 
  
-The website link is:https://megatron-satellite-d-qmb4.bolt.host
+ Website link is:https://megatron-satellite-d-qmb4.bolt.host
+ Youtube link is:https://www.youtube.com/watch?v=yg8Gnw0MR1c
+ Documentations :https://docs.google.com/document/d/1HAr42JaCziwifZroN3P9mMSnqB_0uGhK/edit
+ Demo video:https://drive.google.com/file/d/1-JrkmOyphNZcXG6Cc_jYjvq9gl_Mast3/view
